@@ -1,7 +1,7 @@
 const container = document.createElement("div");
 container.style.border = "1px solid black";
 container.style.backgroundColor = "yellow";
-container.style.width = "8000px";
+container.style.width = "800px";
 container.style.height = "500px";
 
 const box1 = document.createElement("button");
@@ -148,5 +148,5 @@ box12.style.color = "white";
 box12.style.fontSize = "17px";
 document.body.appendChild(box12);
 
-container.appendChild(box);
+container.appendChild(box1);
 document.body.appendChild(container);
