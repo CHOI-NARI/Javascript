@@ -1,0 +1,41 @@
+/* .box {
+  display: flex;
+  gap: 10px;
+}
+
+.orange {
+  background-color: orange;
+  border: 1px solid orange;
+}
+
+.button {
+  padding: 10px 10px 7px;
+  border-radius: 5px;
+}
+
+.bold {
+  font-weight: bold;
+} */
+
+.outline {
+  background-color: white;
+  border: 1px solid grey;
+  color: grey;
+  height: 40px;
+}
+
+.box1 {
+  width: 60px;
+}
+
+.box2 {
+  width: 30px;
+}
+
+.box3 {
+  width: 60px;
+}
+
+.box4 {
+  width: 60px;
+}
