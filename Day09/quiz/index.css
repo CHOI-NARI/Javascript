@@ -1,0 +1,25 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid red;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 30px;
+}
+
+img {
+  border-radius: 9999px;
+  width: 200px;
+  height: 200px;
+  border: 1px solid grey;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+}
